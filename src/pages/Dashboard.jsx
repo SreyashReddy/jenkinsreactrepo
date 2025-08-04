@@ -39,7 +39,7 @@ const Dashboard = () => {
             />
             <CardContent>
               <Typography variant="h6">ERP Analytics</Typography>
-              <Typography variant="body2">Visualize Performance metrics</Typography>
+              <Typography variant="body2">Visualize Performance metric</Typography>
             </CardContent>
           </Card>
         </Grid>
